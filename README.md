@@ -1,2 +1,2 @@
-# Centum-Breast-Cancer
+# Centum-Breast-Cancer-Prediction
 MCA Centum Project
